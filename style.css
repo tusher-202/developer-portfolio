@@ -33,3 +33,36 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.button-1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+
+}
+.display-1{
+    width: 50%;
+    padding-right: 3.30%;
+}
+.display-1 img{
+    width: 80%;
+    padding-left: 22%;
+}
+.button-2{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+  .button-3{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+  }
