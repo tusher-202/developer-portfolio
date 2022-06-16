@@ -21,6 +21,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .display{
     width: 50%;
@@ -49,6 +50,12 @@ section{
 .display-1 img{
     width: 80%;
     padding-left: 22%;
+}
+.education{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+   
 }
 .button-2{
     text-decoration: none;
